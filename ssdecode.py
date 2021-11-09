@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZXFkbnhLQ1R2aHk@45.77.19.171:42480
+        $ git clone https://github.com/Bill0412/ss-link-decoder.git
+$ cd ss-link-decoder
+$ python ssdecode.py ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVkJ6WVJIZ3ZRTzc=@138.197.210.78:12320
 # -*- coding: utf-8 -*-
 
 import base64
